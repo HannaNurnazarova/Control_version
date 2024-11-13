@@ -1,0 +1,84 @@
+.gitignore
+ new file:   ../../Payton course/Payton course.csproj
+        new file:   ../../Payton course/Program.cs
+        new file:   ../../Payton course/main.py
+        new file:   ../../Payton course/obj/Payton course.csproj.nuget.dgspec.json
+        new file:   ../../Payton course/obj/Payton course.csproj.nuget.g.props
+        new file:   ../../Payton course/obj/Payton course.csproj.nuget.g.targets
+        new file:   ../../Payton course/obj/project.assets.json
+        new file:   ../../Payton course/obj/project.nuget.cache
+        new file:   ../../Program/.gitignore
+        new file:   ../../Program/.idea/.gitignore
+        new file:   ../../Program/.idea/encodings.xml
+        new file:   ../../Program/.idea/misc.xml
+        new file:   ../../Program/.idea/vcs.xml
+        new file:   ../../Program/.mvn/wrapper/maven-wrapper.jar
+        new file:   ../../Program/.mvn/wrapper/maven-wrapper.properties
+        new file:   ../../Program/mvnw
+        new file:   ../../Program/mvnw.cmd
+        new file:   ../../Program/pom.xml
+        new file:   ../../Program/src/Task
+        new file:   ../../Program/src/main/java/com/example/program/HelloApplication.java
+        new file:   ../../Program/src/main/java/com/example/program/HelloController.java
+        new file:   ../../Program/src/main/java/module-info.java
+        new file:   ../../Program/src/main/resources/com/example/program/hello-view.fxml
+        new file:   ../../Python course/.folder
+        new file:   ../../Python course/Payton course.csproj
+        new file:   ../../Python course/Program.cs
+        new file:   ../../Python course/main.py
+        new file:   ../../Python course/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+        new file:   ../../Python course/obj/Debug/net8.0/Payton course.AssemblyInfo.cs
+        new file:   ../../Python course/obj/Debug/net8.0/Payton course.AssemblyInfoInputs.cache
+        new file:   ../../Python course/obj/Debug/net8.0/Payton course.GeneratedMSBuildEditorConfig.editorconfig      
+        new file:   ../../Python course/obj/Debug/net8.0/Payton course.GlobalUsings.g.cs
+        new file:   ../../Python course/obj/Debug/net8.0/Payton course.assets.cache
+        new file:   ../../Python course/obj/Payton course.csproj.nuget.dgspec.json
+        new file:   ../../Python course/obj/Payton course.csproj.nuget.g.props
+        new file:   ../../Python course/obj/Payton course.csproj.nuget.g.targets
+        new file:   ../../Python course/obj/project.assets.json
+        new file:   ../../Python course/obj/project.nuget.
+             deleted:    ../../Payton course/Payton course.csproj
+        deleted:    ../../Payton course/Program.cs
+        deleted:    ../../Payton course/main.py
+        deleted:    ../../Payton course/obj/Payton course.csproj.nuget.dgspec.json
+        deleted:    ../../Payton course/obj/Payton course.csproj.nuget.g.props
+        deleted:    ../../Payton course/obj/Payton course.csproj.nuget.g.targets
+        deleted:    ../../Payton course/obj/project.assets.json
+        deleted:    ../../Payton course/obj/project.nuget.cache
+        deleted:    ../../Python course/Program.cs
+        modified:   ../../Python course/main.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../../.idea/
+        ../
+        ../../GB_neuro_bot/
+        ../../Ilya/
+        ../../JAVA_tasks_STEP.zip
+        ../../Lesson1/
+        ../../Practic/
+        ../../Practicum/
+        ../../Python course/.vscode/
+        ../../firstProject/
+        ../../kod/
+        ../../lesson-1/
+        ../../lesson/
+        ../../obj/
+        ../../stepWork/
+        ../../Учёба GB/
+        deleted:    ../../Payton course/Payton course.csproj
+        deleted:    ../../Payton course/Program.cs
+        deleted:    ../../Payton course/main.py
+        deleted:    ../../Payton course/obj/Payton course.csproj.nuget.dgspec.json
+        deleted:    ../../Payton course/obj/Payton course.csproj.nuget.g.props
+        deleted:    ../../Payton course/obj/Payton course.csproj.nuget.g.targets
+        deleted:    ../../Payton course/obj/project.assets.json
+        deleted:    ../../Payton course/obj/project.nuget.cache
+        deleted:    ../../Python course/Program.cs
+        modified:   ../../Python course/main.py
+        # Игнорировать папку .idea
+.idea/
+# Игнорировать временные файлы
+*.tmp
+*.log
+Лист.jpg
